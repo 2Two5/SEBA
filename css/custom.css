@@ -1,0 +1,225 @@
+/* ==========================================================================
+*
+* Custom CSS Stylesheet. This is where you should add your own styles!
+*
+** ========================================================================== */
+
+/* Simple style overrides or custom adds */
+.embed-container {
+	position: relative;
+	padding-bottom: 56.25%;
+	overflow: hidden;
+	max-width: 100%;
+	height: auto;
+}
+.embed-container iframe, .embed-container object, .embed-container embed {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.site-logo img {max-height: 100px; max-width: 100%;}
+.some-css-selector {font-size:13px;}
+.hg_section--relative.call-to-action .tbk-text {text-align: left;}
+.hg_section--relative.call-to-action .tbk-buttons {text-align: right;}
+.hg_section--relative.call-to-action .th-spacer {height: 25px;}
+
+.site-header[data-header-style="3"] .kl-header-toptext {font-size: 16px;}
+.site-header[data-header-style="3"] .kl-header-toptext a {font-size: 16px;}
+.site-header[data-header-style="3"] .kl-header-toptext {font-size: 16px;}
+.site-header[data-header-style="3"] .social-icons.sc--clean li a, .site-header .topnav > li > a {font-size: 16px;}
+.site-header[data-header-style="3"] .topnav > li > a > span {margin-top: 4px;}
+
+.team-member.tm-hover, .team-member.tm-hover:hover {
+	-webkit-transition: background-color .15s ease-out;
+	transition: background-color .15s ease-out;
+}
+
+.procedure-img {
+	text-align: right;
+}
+.procedure-img img {
+	margin: 10px 0 20px 20px;
+	float: right;
+	width: 100%;
+	max-width: 400px;
+}
+
+.testimonial_slider__carousel-wrapper .testimonialbox .who strong {color: #fff;}
+.testimonialbox .tcontent {color: #fff;}
+
+#footer .social-icons.sc--clean li a {
+	font-size: 20px;
+	width: 40px;
+	height: 40px;
+}
+.site-header[data-header-style="3"] .topnav.sc--clean > li > a.icon-facebook:hover,
+#footer[data-footer-style="5"] a.icon-facebook:hover {
+	color: #3B5998 !important;
+}
+.site-header[data-header-style="3"] .topnav.sc--clean > li > a.icon-twitter:hover,
+#footer[data-footer-style="5"] a.icon-twitter:hover {
+	color: #00BDEC !important;
+}
+.site-header[data-header-style="3"] .topnav.sc--clean > li > a.icon-gplus:hover,
+#footer[data-footer-style="5"] a.icon-gplus:hover {
+	color: #D94A39 !important;
+}
+.site-header[data-header-style="3"] .topnav.sc--clean > li > a.icon-youtube:hover,
+#footer[data-footer-style="5"] a.icon-youtube:hover {
+	color: #C4302B !important;
+}
+.site-header[data-header-style="3"] .topnav.sc--clean > li > a.icon-yelp:hover,
+#footer[data-footer-style="5"] a.icon-yelp:hover {
+	color: #AF0606 !important;
+}
+
+.table.table-footer > tbody > tr > th, .table.table-footer > tbody > tr > td {
+	padding: 12px 8px;
+}
+
+.db-bg-source:not(:empty),
+.db-bg-source__overlay,
+.db-bg-source__bgimage { position: absolute; top:0; left:0; bottom: 0; right:0; }
+.db-bg-source__bgimage { background-image:url("../images/parallax_bg/page-header-1.jpg"); background-repeat:no-repeat; background-attachment:scroll; background-position-x:center; background-position-y:top; background-size:cover}
+.db-bg-source__overlay { pointer-events: none;}
+.db-bg-source__video {}
+.db-bg-source__iframe { position: relative; display: block; height: 0; padding: 0; overflow: hidden; padding-bottom: 56.25%;}
+.db-bg-source__iframe iframe { position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; }
+.db-bg-source__overlay-gloss { pointer-events: none; position: absolute; top: 0; left: -43%; background-color: #FFF; width: 100%;
+	-webkit-transform: skewX(-55deg); -ms-transform: skewX(-55deg); transform: skewX(-55deg); height: 100%; -webkit-transform-origin: 100% 0;
+	-ms-transform-origin: 100% 0; transform-origin: 100% 0; opacity: .08;}
+
+.db-bg-source__overlay {
+	background:rgba(53,53,53,0.6);
+	background: -moz-linear-gradient(left, rgba(53,53,53,0.6) 0%, rgba(30,168,170,0.35) 100%);
+	background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(53,53,53,0.6)), color-stop(100%,rgba(30,168,170,0.35)));
+	background: -webkit-linear-gradient(left, rgba(53,53,53,0.6) 0%,rgba(30,168,170,0.35) 100%);
+	background: -o-linear-gradient(left, rgba(53,53,53,0.6) 0%,rgba(30,168,170,0.35) 100%);
+	background: -ms-linear-gradient(left, rgba(53,53,53,0.6) 0%,rgba(30,168,170,0.35) 100%);
+	background: linear-gradient(to right, rgba(53,53,53,0.6) 0%,rgba(30,168,170,0.35) 100%);
+}
+
+.google-map {padding-top: 160px;}
+.page-subheader.google-map {background-color: #ffffff;}
+.error404 {padding-top: 250px !important;}
+
+.kl-bg-source__overlay.confirmation {
+	background:rgba(0,128,0,1);
+	background: -moz-linear-gradient(left, rgba(0,128,0,1) 0%, rgba(0,38,0,1) 100%);
+	background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(0,128,0,1)), color-stop(100%,rgba(0,38,0,1))); background: -webkit-linear-gradient(left, rgba(0,128,0,1) 0%,rgba(0,38,0,1) 100%);
+	background: -o-linear-gradient(left, rgba(0,128,0,1) 0%,rgba(0,38,0,1) 100%);
+	background: -ms-linear-gradient(left, rgba(0,128,0,1) 0%,rgba(0,38,0,1) 100%);
+	background: linear-gradient(to right, rgba(0,128,0,1) 0%,rgba(0,38,0,1) 100%);
+}
+
+
+.header-spacing {margin-top:100px;}
+ol.numbered-list li {list-style: decimal!important;}
+.menu-item-has-children.right-border {border-right: 1px solid #bbbbbb}
+
+
+/* ==========================================================================
+** Responsive styles custom rules
+* These rules are ready to be used for either overrides
+* or just your own custom rules.
+========================================================================== */
+
+
+/** Higher screens+ **/
+@media only screen and (min-width : 1921px){
+
+}
+
+
+/** Desktop+ **/
+@media (min-width: 1200px) {
+
+}
+
+
+/** Laptop **/
+@media (max-width: 1199px) {
+	.hg_section--relative.call-to-action .th-spacer {height: 40px;}
+}
+
+
+/** Laptop+ **/
+@media (min-width: 993px) {
+
+}
+
+
+/** Laptop **/
+@media (min-width: 993px) and (max-width: 1199px) {
+
+}
+
+
+/** Large Tablets **/
+@media (max-width: 992px) {
+	.hg_section--relative.call-to-action .th-spacer {height: 40px;}
+	.menu-item-has-children.right-border {border-right: none}
+}
+
+
+/** Tablets (landscape mode)  **/
+@media (min-width: 768px) and (max-width: 992px) {
+
+}
+
+
+/** Tablets+  **/
+@media (min-width: 768px) {
+
+}
+
+
+/** Tablets (portrait mode)  **/
+@media (min-width : 480px) and (max-width : 767px) {
+
+}
+
+
+/** Smartphone landscape mode / Mini Tablet **/
+@media (max-width: 767px) {
+	.hg_section--relative.call-to-action .tbk-text {text-align: center;}
+	.hg_section--relative.call-to-action .tbk-buttons {text-align: center;}
+	.site-header[data-header-style="3"] .topnav {margin-top: -1px;}
+	.site-header[data-header-style="3"] .xs-icon {font-size: 16px;}
+	.google-map {padding-top: 0;}
+	.page-subheader.maskcontainer--mask7.google-map {padding-bottom: 10px;}
+	.error404 {padding-top: 50px !important;}
+	.procedure-img {
+		text-align: center;
+	}
+	.procedure-img img {
+		margin: 0 auto 20px;
+		float: none;
+		width: 100%;
+		max-width: 500px;
+	}
+	header.style1, header.style2 .site-logo a, header.style3 .site-logo a {border-bottom:none;}
+	.header-spacing {margin-top:0;}
+}
+
+
+/** Smartphone landscape mode / Mini Tablet **/
+@media (max-width: 600px) {
+
+}
+
+
+/** Smartphone portrait mode **/
+@media (max-width: 480px) {
+	.site-header[data-header-style="3"] .kl-header-toptext {display: inline-block;}
+	.site-header[data-header-style="3"] .topnav.navRight {display: none;}
+	.error404-content h2 {font-size: 100px;}
+}
+
+
+/** Normal phone portrait mode+ **/
+@media (min-width: 320px) {
+
+}
