@@ -18,15 +18,15 @@
 	<meta property="og:locale" content="en_US"/>
 	<meta property="og:type" content="website"/>
 	<link property="og:url" href="tips-to-avoid-erectile-dysfunction.php"/>
-	<link itemprop="image" href="og:image" content="https://www.sexualenhancementbayarea.com/images/blog/watermelon-juice.png">
+	<link itemprop="image" href="og:image" content="https://www.sexualwellnesssf.com/images/blog/watermelon-juice.png">
 	<link rel="canonical" href="tips-to-avoid-erectile-dysfunction.php" />
-	<link rel="author" type="text/plain" href="https://www.sexualenhancementbayarea.com/humans.txt" />
+	<link rel="author" type="text/plain" href="https://www.sexualwellnesssf.com/humans.txt" />
 	<link rel="publisher" href="https://www.demandboost.com"/>
-	
+
 	<!-- Retina Images -->
 	<script>(function(w){var dpr=((w.devicePixelRatio===undefined)?1:w.devicePixelRatio);if(!!w.navigator.standalone){var r=new XMLHttpRequest();r.open('GET','php-helpers/retinaimages.php?devicePixelRatio='+dpr,false);r.send()}else{document.cookie='devicePixelRatio='+dpr+'; path=/'}})(window)</script>
-	<noscript><style id="devicePixelRatio" media="only screen and (-moz-min-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2)">html{background-image:url("https://www.sexualenhancementbayarea.com/php-helpers/_retinaimages.php?devicePixelRatio=2")}</style></noscript>
-	
+	<noscript><style id="devicePixelRatio" media="only screen and (-moz-min-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2)">html{background-image:url("https://www.sexualwellnesssf.com/php-helpers/_retinaimages.php?devicePixelRatio=2")}</style></noscript>
+
 	<!-- Favicons -->
 	<link rel="apple-touch-icon" sizes="57x57" href="../images/favicons/apple-icon-57x57.png">
 	<link rel="apple-touch-icon" sizes="60x60" href="../images/favicons/apple-icon-60x60.png">
@@ -62,7 +62,7 @@
 	<!-- Libraries -->
 	<script type="text/javascript" src="../js/modernizr.min.js"></script>
 	<script type="text/javascript" src="../js/jquery.js"></script>
-	
+
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -77,7 +77,7 @@
 	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W6DGJT2"
 	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<!-- End Google Tag Manager (noscript) -->
-	
+
 	<!-- Page Wrapper -->
 	<div id="page_wrapper">
 		<!-- HEADER -->
@@ -87,7 +87,7 @@
 					<div class="header-links-container">
 						<ul class="social-icons sc--clean topnav navRight">
 							<li><a href="http://x1.fyi/DKRqM" target="_blank" class="icon-facebook" title="Facebook"></a></li>
-							<li><a href="http://x1.fyi/cap2S" target="_blank" class="icon-twitter" title="Twitter"></a></li>	
+							<li><a href="http://x1.fyi/cap2S" target="_blank" class="icon-twitter" title="Twitter"></a></li>
 							<li><a href="http://x1.fyi/uiXPY" target="_blank" class="icon-gplus" title="Google Plus"></a></li>
 							<li><a href="http://x1.fyi/mo5Zt" target="_blank" class="icon-youtube" title="YouTube"></a></li>
 							<li><a href="http://x1.fyi/tsikT" target="_blank" class="icon-yelp" title="Yelp"></a></li>
@@ -152,15 +152,15 @@
 								<li><a href="../testimonials.php">Testimonials</a></li>
 							</ul>
 						</li>
-						
+
 						<li class="menu-item-has-children"><a href="../about.php">About</a>
 							 <ul class="sub-menu clearfix">
 								<li><a href="../about.php">About Us</a></li>
 								<li><a href="blog.php">Treatment Blog</a></li>
-								
+
 							</ul>
 						</li>
-						
+
 						<li class="menu-item-has-children menu-item-mega-parent active"><a href="../procedures.php">Procedures</a>
 							<ul class="hg_mega_container container clearfix">
 								<li class="menu-item-has-children col-sm-3"><a href="../procedures-women.php" class="zn_mega_title">Women (Surgical)</a>
@@ -209,9 +209,6 @@
 								<li><a href="../faqs-female.php">FAQs for Women</a></li>
 								<li><a href="../faqs-male.php">FAQs for Men</a></li>
 							</ul>
-						</li>
-						<li class="">
-							<a href="../seminar/index.html">Seminars</a>
 						</li>
 						<li class="">
 							<a href="../contact.php">Contact</a>
@@ -269,7 +266,7 @@
 		</div>
 
 		<!-- Page Content -->
-        <section class="hg_section ptop-50 pbottom-50">          
+        <section class="hg_section ptop-50 pbottom-50">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
@@ -286,27 +283,27 @@
 							</p>
 							<p><u>Tip #1: Regular Exercise</u></p>
 							<p>Improving sexual performance can be as simple as keeping a schedule of regular exercise that includes walking or running at least two miles per day. Regular exercise and other lifestyle changes are beneficial in naturally treating current symptoms of impotence and helping men reduce their chances of Erectile Dysfunction. Erectile dysfunction is more common with men who are overweight or currently obese and losing weight may have greater benefits.</p>
-							
+
 							<p><u>Tip #2: Pelvic Strengthening Exercises</u></p>
 							<p>Pelvic strength is an important aspect to treating ED and regaining the ability to have regular erections. Pelvic exercises work toward strengthening the bulbocavernosus flex muscle, which helps the body push blood into the penis, pump during ejaculation, and push out any remaining urine in the urethra. Pelvic exercises have the greatest benefit when they are combine with certain lifestyle changes such as weight loss, eliminating drinking and smoking, and changing your diet.</p>
-							
+
 							<p><u>Tip #3: Get Acupuncture</u></p>
 							<p>Acupuncture is an excellent method for improving blood circulation. It has also been successful in helping people deal with back pain, psychological issues, and even erectile dysfunction. Acupuncture is known as alternative therapy and can benefit a person by decreasing anxiety and stress from impotence. </p>
-							
+
 							<p><u>Tip #4: Natural Viagra</u></p>
 							<p>Red Ginseng and L-arginine (an amino acid in the body that helps make nitric oxide) are both natural remedies that can help treat erectile dysfunction. When a person is suffering from ED his body may lack the necessary chemicals to promote proper circulation. Research has determined that regular usage of these supplements can have positive results on most men, depending on the cause of ED.</p>
-							
+
 							<p><u>Tip #5: Watermelon Juice</u></p>
 							<p>Watermelon juice is packed with citrulline, which is an amino acid that helps to promote blood flow to the penis. Watermelon is mostly made up of water, but the vitamins and minerals in this fruit may be able to help men who suffer from mild to moderate erectile dysfunction. Watermelon is a great alternative to medication side effects such as nausea, diarrhea, or priapism.</p>
-							
+
 							<p>Keep in mind that natural remedies for ED may not work for all men. Consult your primary care physician before beginning a regular cycle of supplements. There is nothing that can replace the benefits of using Viagra or any other ED medication, but these tips may help you improve your chances of avoiding long term ED.</p>
 							<p>If you are suffering from erectile dysfunction, Dr. Liu is ready to help you reignite your confidence and avoid any embarrassing moments in the bedroom. At The Center For Sexual Enhancement in Burlingame, we offer a variety of non-surgical and surgical options to help treat erectile dysfunction. </p>
 							<p>Call (650) 397-7070 to schedule an appointment with Dr. Liu today.</p>
-							
-							
+
+
 						</div>
 						<div class="clear"></div>
-					</div>	
+					</div>
 				</div>
 			</div>
 		</section>
@@ -361,7 +358,7 @@
 								<h4 data-role="title" class="simple-title">FOLLOW US</h4>
 								<ul class="social-icons sc--clean clearfix">
 									<li><a href="http://x1.fyi/DKRqM" target="_blank" rel="nofollow" class="icon-facebook" title="Facebook"></a></li>
-									<li><a href="http://x1.fyi/cap2S" target="_blank" rel="nofollow" class="icon-twitter" title="Twitter"></a></li>	
+									<li><a href="http://x1.fyi/cap2S" target="_blank" rel="nofollow" class="icon-twitter" title="Twitter"></a></li>
 									<li><a href="http://x1.fyi/uiXPY" target="_blank" rel="nofollow" class="icon-gplus" title="Google Plus"></a></li>
 									<li><a href="http://x1.fyi/mo5Zt" target="_blank" rel="nofollow" class="icon-youtube" title="YouTube"></a></li>
 									<li><a href="http://x1.fyi/tsikT" target="_blank" rel="nofollow" class="icon-yelp" title="Yelp"></a></li>
@@ -429,15 +426,15 @@
 					</div>
 				</div>
 			</div>
-			<script type="application/ld+json"> 
+			<script type="application/ld+json">
 				{
 					"@context": "https://schema.org",
 					"@type": "MedicalClinic",
 					"name": "Center for Sexual Enhancement for Men and Women",
-					"logo": "https://www.sexualenhancementbayarea.com/images/logo/logo.png",
-					"image": "https://www.sexualenhancementbayarea.com/images/logo/logo.png",
-					"@id": "sexualenhancementbayarea.com",
-					"url": "https://www.sexualenhancementbayarea.com",
+					"logo": "https://www.sexualwellnesssf.com/images/logo/logo.png",
+					"image": "https://www.sexualwellnesssf.com/images/logo/logo.png",
+					"@id": "sexualwellnesssf.com",
+					"url": "https://www.sexualwellnesssf.com",
 					"description": "At Center for Sexual Enhancement for Men and Women, our goal is the help make the world more beautiful by helping to reshape and enhance the most intimate parts of our patients' lives",
 					"telephone": "(650) 397-7070",
 					"hasMap": "https://www.google.com/maps/place/1720+El+Camino+Real+%23200,+Burlingame,+CA+94010/@37.5938827,-122.3826303,17z/data=!3m1!4b1!4m5!3m4!1s0x808f77b53b097a7b:0x4af2f6e5cda342f5!8m2!3d37.5938827!4d-122.3804416",
@@ -508,7 +505,7 @@
 		</footer>
 	</div>
 
-	
+
 	<!-- ToTop trigger -->
 	<a href="tips-to-avoid-erectile-dysfunction.php#" id="totop">TOP</a>
 	<!--/ ToTop trigger -->

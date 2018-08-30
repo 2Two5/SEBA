@@ -11,7 +11,7 @@
 //#! Enable with "1" or disable with "0" which functionality you want to use.
 var DBConfig = {
 	// Set your own domain to enable the Google search functionality on your website.
-	searchDomain: 'https://sexualenhancementbayarea.com',
+	searchDomain: 'https://sexualwellnesssf.com',
 
 	// Enable Chaser Menu (Chaser menu or Sticky Header, not both on the same time.)
 	enableChaserMenu: 0,

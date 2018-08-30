@@ -18,15 +18,15 @@
 	<meta property="og:locale" content="en_US"/>
 	<meta property="og:type" content="website"/>
 	<link property="og:url" href="erectile-dysfunction.php"/>
-	<link itemprop="image" href="og:image" content="https://www.sexualenhancementbayarea.com/images/erectile-dysfunction.jpg">
+	<link itemprop="image" href="og:image" content="https://www.sexualwellnesssf.com/images/erectile-dysfunction.jpg">
 	<link rel="canonical" href="erectile-dysfunction.php" />
-	<link rel="author" type="text/plain" href="https://www.sexualenhancementbayarea.com/humans.txt" />
+	<link rel="author" type="text/plain" href="https://www.sexualwellnesssf.com/humans.txt" />
 	<link rel="publisher" href="https://www.demandboost.com"/>
-	
+
 	<!-- Retina Images -->
 	<script>(function(w){var dpr=((w.devicePixelRatio===undefined)?1:w.devicePixelRatio);if(!!w.navigator.standalone){var r=new XMLHttpRequest();r.open('GET','php-helpers/retinaimages.php?devicePixelRatio='+dpr,false);r.send()}else{document.cookie='devicePixelRatio='+dpr+'; path=/'}})(window)</script>
-	<noscript><style id="devicePixelRatio" media="only screen and (-moz-min-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2)">html{background-image:url("https://www.sexualenhancementbayarea.com/php-helpers/_retinaimages.php?devicePixelRatio=2")}</style></noscript>
-	
+	<noscript><style id="devicePixelRatio" media="only screen and (-moz-min-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2)">html{background-image:url("https://www.sexualwellnesssf.com/php-helpers/_retinaimages.php?devicePixelRatio=2")}</style></noscript>
+
 	<!-- Favicons -->
 	<link rel="apple-touch-icon" sizes="57x57" href="images/favicons/apple-icon-57x57.png">
 	<link rel="apple-touch-icon" sizes="60x60" href="images/favicons/apple-icon-60x60.png">
@@ -62,7 +62,7 @@
 	<!-- Libraries -->
 	<script type="text/javascript" src="js/modernizr.min.js"></script>
 	<script type="text/javascript" src="js/jquery.js"></script>
-	
+
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -77,7 +77,7 @@
 	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W6DGJT2"
 	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<!-- End Google Tag Manager (noscript) -->
-	
+
 	<!-- Page Wrapper -->
 	<div id="page_wrapper">
 		<!-- HEADER -->
@@ -87,7 +87,7 @@
 					<div class="header-links-container">
 						<ul class="social-icons sc--clean topnav navRight">
 							<li><a href="http://x1.fyi/DKRqM" target="_blank" class="icon-facebook" title="Facebook"></a></li>
-							<li><a href="http://x1.fyi/cap2S" target="_blank" class="icon-twitter" title="Twitter"></a></li>	
+							<li><a href="http://x1.fyi/cap2S" target="_blank" class="icon-twitter" title="Twitter"></a></li>
 							<li><a href="http://x1.fyi/uiXPY" target="_blank" class="icon-gplus" title="Google Plus"></a></li>
 							<li><a href="http://x1.fyi/mo5Zt" target="_blank" class="icon-youtube" title="YouTube"></a></li>
 							<li><a href="http://x1.fyi/tsikT" target="_blank" class="icon-yelp" title="Yelp"></a></li>
@@ -154,7 +154,7 @@
 							 <ul class="sub-menu clearfix">
 								<li><a href="about.php">About Us</a></li>
 								<li><a href="blog/blog.php">Treatment Blog</a></li>
-								
+
 							</ul>
 						</li>
 						<li class="menu-item-has-children menu-item-mega-parent "><a href="procedures.php">Procedures</a>
@@ -188,7 +188,7 @@
 									<ul class="clearfix">
 										<li><a href="procedures-men/sottopelle-hormonal-therapy-men.php">Sottopelle Hormonal Therapy - Men</a></li>
 										<li><a href="procedures-men/urethral-medications.php">Urethral Medications</a></li>
-										<li><a href="procedures-men/cialis-levitra-viagra.php">Cialis, Levitra, Viagra</a></li>
+										<li><a href="procedures-men/cialis-levitra-viagra.php">Prescriptions</a></li>
 										<li><a href="procedures-men/gains-enhancement.php">Gains Enhancement &reg;</a></li>
 										<li><a href="procedures-men/gainswave-pulsewave-therapy.php">GainsWave Pulsewave Therapy</a></li>
 										<li><a href="procedures-men/p-shot.php">The Priapus Shot (P-Shot)</a></li>
@@ -205,9 +205,6 @@
 								<li><a href="faqs-female.php">FAQs for Women</a></li>
 								<li><a href="faqs-male.php">FAQs for Men</a></li>
 							</ul>
-						</li>
-						<li class="">
-							<a href="seminar/index.html">Seminars</a>
 						</li>
 						<li class="">
 							<a href="contact.php">Contact</a>
@@ -265,7 +262,7 @@
 		</div>
 
 		<!-- Page Content -->
-        <section class="hg_section ptop-50 pbottom-50">          
+        <section class="hg_section ptop-50 pbottom-50">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
@@ -277,17 +274,17 @@
 						<div class="procedure-text">
 							<h4><strong>What Is Erectile Dysfunction?</strong></h4>
 							<p>The National Institute of Health (NIH) defined impotence as "the inability to achieve or maintain an erection sufficient for satisfactory sexual performance." It is the result of inadequate arterial blood flow into the erection chambers (corpora cavernosa) or the inability of the chambers to prevent blood from flowing out during erection.</p>
-							
+
 							<h4><strong>What Causes Erectile Dysfunction?</strong></h4>
 							<p>Erectile dysfunction has a multi-factorial etiology. This includes organic, physiologic, endocrine, and psychogenic factors. Pure psychogenic erectile dysfunction is uncommon. However, many patients with organic erectile dysfunction may also have a psychogenic component.</p>
 							<p>Inadequate blood flow can be the result of general poor health, which may be caused by medical conditions involving poor circulations such as diabetes, hardening, and narrowing of the lumens of blood vessels and many others. Neurological conditions such as multiple sclerosis and Parkinson's disease result in lack of arousal and therefore no stimulation to increase blood flow. Lack of blood flow to the penis may also be caused by trauma to the genital areas, which may also cause significant loss of sensation.</p>
 							<p>Erectile Dysfunction can also be cause through a lifestyle that involves drug use, smoking, high alcoholic intake, and lack of sleep since these are all detrimental blood flow in the genital area.</p>
 							<p>Dr. Liu and his staff understand the sensitivity of this matter, and the privacy of our patient is always respected. Any communication regarding this must only be with the patient only. There is no exception to this rule.</p>
-							
+
 							<h4><strong>How Does Dr. Liu Treat Erectile Dysfunction?</strong></h4>
 							<p>Treating erectile dysfunction greatly depends on the cause for your condition. Whether your condition was caused by a medical condition or is related to age, Dr. Liu will do everything within his means to provide you with the right treatment at The Center of Sexual Enhancement in Burlingame.</p>
 							<p>For all patients, including those who are unresponsive to medications (Viagra, Cialis, or Levitra), Dr. Liu takes several specific steps to ensure proper treatment is provided.</p>
-							
+
 							<ol class="numbered-list">
 								<li>
 									<strong>Detailed Information</strong>
@@ -322,7 +319,7 @@
 							</ol>
 						</div>
 						<div class="clear"></div>
-					</div>	
+					</div>
 				</div>
 			</div>
 		</section>
@@ -377,7 +374,7 @@
 								<h4 data-role="title" class="simple-title">FOLLOW US</h4>
 								<ul class="social-icons sc--clean clearfix">
 									<li><a href="http://x1.fyi/DKRqM" target="_blank" rel="nofollow" class="icon-facebook" title="Facebook"></a></li>
-									<li><a href="http://x1.fyi/cap2S" target="_blank" rel="nofollow" class="icon-twitter" title="Twitter"></a></li>	
+									<li><a href="http://x1.fyi/cap2S" target="_blank" rel="nofollow" class="icon-twitter" title="Twitter"></a></li>
 									<li><a href="http://x1.fyi/uiXPY" target="_blank" rel="nofollow" class="icon-gplus" title="Google Plus"></a></li>
 									<li><a href="http://x1.fyi/mo5Zt" target="_blank" rel="nofollow" class="icon-youtube" title="YouTube"></a></li>
 									<li><a href="http://x1.fyi/tsikT" target="_blank" rel="nofollow" class="icon-yelp" title="Yelp"></a></li>
@@ -445,15 +442,15 @@
 					</div>
 				</div>
 			</div>
-			<script type="application/ld+json"> 
+			<script type="application/ld+json">
 				{
 					"@context": "https://schema.org",
 					"@type": "MedicalClinic",
 					"name": "Center for Sexual Enhancement for Men and Women",
-					"logo": "https://www.sexualenhancementbayarea.com/images/logo/logo.png",
-					"image": "https://www.sexualenhancementbayarea.com/images/logo/logo.png",
-					"@id": "sexualenhancementbayarea.com",
-					"url": "https://www.sexualenhancementbayarea.com",
+					"logo": "https://www.sexualwellnesssf.com/images/logo/logo.png",
+					"image": "https://www.sexualwellnesssf.com/images/logo/logo.png",
+					"@id": "sexualwellnesssf.com",
+					"url": "https://www.sexualwellnesssf.com",
 					"description": "At Center for Sexual Enhancement for Men and Women, our goal is the help make the world more beautiful by helping to reshape and enhance the most intimate parts of our patients' lives",
 					"telephone": "(650) 397-7070",
 					"hasMap": "https://www.google.com/maps/place/1720+El+Camino+Real+%23200,+Burlingame,+CA+94010/@37.5938827,-122.3826303,17z/data=!3m1!4b1!4m5!3m4!1s0x808f77b53b097a7b:0x4af2f6e5cda342f5!8m2!3d37.5938827!4d-122.3804416",
@@ -524,7 +521,7 @@
 		</footer>
 	</div>
 
-	
+
 	<!-- ToTop trigger -->
 	<a href="erectile-dysfunction.php#" id="totop">TOP</a>
 	<!--/ ToTop trigger -->

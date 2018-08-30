@@ -18,15 +18,15 @@
 	<meta property="og:locale" content="en_US"/>
 	<meta property="og:type" content="website"/>
 	<link property="og:url" href="about.php"/>
-	<link itemprop="image" href="og:image" content="https://www.sexualenhancementbayarea.com/images/logo.png">
+	<link itemprop="image" href="og:image" content="https://www.sexualwellnesssf.com/images/logo.png">
 	<link rel="canonical" href="about.php" />
-	<link rel="author" type="text/plain" href="https://www.sexualenhancementbayarea.com/humans.txt" />
+	<link rel="author" type="text/plain" href="https://www.sexualwellnesssf.com/humans.txt" />
 	<link rel="publisher" href="https://www.demandboost.com"/>
-	
+
 	<!-- Retina Images -->
 	<script>(function(w){var dpr=((w.devicePixelRatio===undefined)?1:w.devicePixelRatio);if(!!w.navigator.standalone){var r=new XMLHttpRequest();r.open('GET','php-helpers/retinaimages.php?devicePixelRatio='+dpr,false);r.send()}else{document.cookie='devicePixelRatio='+dpr+'; path=/'}})(window)</script>
-	<noscript><style id="devicePixelRatio" media="only screen and (-moz-min-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2)">html{background-image:url("https://www.sexualenhancementbayarea.com/php-helpers/_retinaimages.php?devicePixelRatio=2")}</style></noscript>
-	
+	<noscript><style id="devicePixelRatio" media="only screen and (-moz-min-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2)">html{background-image:url("https://www.sexualwellnesssf.com/php-helpers/_retinaimages.php?devicePixelRatio=2")}</style></noscript>
+
 	<!-- Favicons -->
 	<link rel="apple-touch-icon" sizes="57x57" href="images/favicons/apple-icon-57x57.png">
 	<link rel="apple-touch-icon" sizes="60x60" href="images/favicons/apple-icon-60x60.png">
@@ -62,7 +62,7 @@
 	<!-- Libraries -->
 	<script type="text/javascript" src="js/modernizr.min.js"></script>
 	<script type="text/javascript" src="js/jquery.js"></script>
-	
+
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -77,7 +77,7 @@
 	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W6DGJT2"
 	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<!-- End Google Tag Manager (noscript) -->
-	
+
 	<!-- Page Wrapper -->
 	<div id="page_wrapper">
 		<!-- HEADER -->
@@ -87,7 +87,7 @@
 					<div class="header-links-container">
 						<ul class="social-icons sc--clean topnav navRight">
 							<li><a href="http://x1.fyi/DKRqM" target="_blank" class="icon-facebook" title="Facebook"></a></li>
-							<li><a href="http://x1.fyi/cap2S" target="_blank" class="icon-twitter" title="Twitter"></a></li>	
+							<li><a href="http://x1.fyi/cap2S" target="_blank" class="icon-twitter" title="Twitter"></a></li>
 							<li><a href="http://x1.fyi/uiXPY" target="_blank" class="icon-gplus" title="Google Plus"></a></li>
 							<li><a href="http://x1.fyi/mo5Zt" target="_blank" class="icon-youtube" title="YouTube"></a></li>
 							<li><a href="http://x1.fyi/tsikT" target="_blank" class="icon-yelp" title="Yelp"></a></li>
@@ -154,7 +154,7 @@
 							 <ul class="sub-menu clearfix">
 								<li><a href="about.php">About Us</a></li>
 								<li><a href="blog/blog.php">Treatment Blog</a></li>
-								
+
 							</ul>
 						</li>
 						<li class="menu-item-has-children menu-item-mega-parent "><a href="procedures.php">Procedures</a>
@@ -188,7 +188,7 @@
 									<ul class="clearfix">
 										<li><a href="procedures-men/sottopelle-hormonal-therapy-men.php">Sottopelle Hormonal Therapy - Men</a></li>
 										<li><a href="procedures-men/urethral-medications.php">Urethral Medications</a></li>
-										<li><a href="procedures-men/cialis-levitra-viagra.php">Cialis, Levitra, Viagra</a></li>
+										<li><a href="procedures-men/cialis-levitra-viagra.php">Prescriptions</a></li>
 										<li><a href="procedures-men/gains-enhancement.php">Gains Enhancement &reg;</a></li>
 										<li><a href="procedures-men/gainswave-pulsewave-therapy.php">GainsWave Pulsewave Therapy</a></li>
 										<li><a href="procedures-men/p-shot.php">The Priapus Shot (P-Shot)</a></li>
@@ -205,9 +205,6 @@
 								<li><a href="faqs-female.php">FAQs for Women</a></li>
 								<li><a href="faqs-male.php">FAQs for Men</a></li>
 							</ul>
-						</li>
-						<li class="">
-							<a href="seminar/index.html">Seminars</a>
 						</li>
 						<li class="">
 							<a href="contact.php">Contact</a>
@@ -342,7 +339,7 @@
 								<h4 data-role="title" class="simple-title">FOLLOW US</h4>
 								<ul class="social-icons sc--clean clearfix">
 									<li><a href="http://x1.fyi/DKRqM" target="_blank" rel="nofollow" class="icon-facebook" title="Facebook"></a></li>
-									<li><a href="http://x1.fyi/cap2S" target="_blank" rel="nofollow" class="icon-twitter" title="Twitter"></a></li>	
+									<li><a href="http://x1.fyi/cap2S" target="_blank" rel="nofollow" class="icon-twitter" title="Twitter"></a></li>
 									<li><a href="http://x1.fyi/uiXPY" target="_blank" rel="nofollow" class="icon-gplus" title="Google Plus"></a></li>
 									<li><a href="http://x1.fyi/mo5Zt" target="_blank" rel="nofollow" class="icon-youtube" title="YouTube"></a></li>
 									<li><a href="http://x1.fyi/tsikT" target="_blank" rel="nofollow" class="icon-yelp" title="Yelp"></a></li>
@@ -410,15 +407,15 @@
 					</div>
 				</div>
 			</div>
-			<script type="application/ld+json"> 
+			<script type="application/ld+json">
 				{
 					"@context": "https://schema.org",
 					"@type": "MedicalClinic",
 					"name": "Center for Sexual Enhancement for Men and Women",
-					"logo": "https://www.sexualenhancementbayarea.com/images/logo/logo.png",
-					"image": "https://www.sexualenhancementbayarea.com/images/logo/logo.png",
-					"@id": "sexualenhancementbayarea.com",
-					"url": "https://www.sexualenhancementbayarea.com",
+					"logo": "https://www.sexualwellnesssf.com/images/logo/logo.png",
+					"image": "https://www.sexualwellnesssf.com/images/logo/logo.png",
+					"@id": "sexualwellnesssf.com",
+					"url": "https://www.sexualwellnesssf.com",
 					"description": "At Center for Sexual Enhancement for Men and Women, our goal is the help make the world more beautiful by helping to reshape and enhance the most intimate parts of our patients' lives",
 					"telephone": "(650) 397-7070",
 					"hasMap": "https://www.google.com/maps/place/1720+El+Camino+Real+%23200,+Burlingame,+CA+94010/@37.5938827,-122.3826303,17z/data=!3m1!4b1!4m5!3m4!1s0x808f77b53b097a7b:0x4af2f6e5cda342f5!8m2!3d37.5938827!4d-122.3804416",
@@ -489,7 +486,7 @@
 		</footer>
 	</div>
 
-	
+
 	<!-- ToTop trigger -->
 	<a href="about.php#" id="totop">TOP</a>
 	<!--/ ToTop trigger -->
@@ -505,6 +502,6 @@
 	<script type="text/javascript" src="https://use.fontawesome.com/releases/v5.0.8/js/all.js" defer></script>
 
 	<!-- JS FILES // Loaded on this page -->
-	
+
 </body>
 </html>

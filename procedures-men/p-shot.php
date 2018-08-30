@@ -17,15 +17,15 @@
 	<meta property="og:locale" content="en_US"/>
 	<meta property="og:type" content="website"/>
 	<link property="og:url" href="p-shot.php"/>
-	<link itemprop="image" href="og:image" content="https://www.sexualenhancementbayarea.com/images/procedures/men-p-shot.jpg">
+	<link itemprop="image" href="og:image" content="https://www.sexualwellnesssf.com/images/procedures/men-p-shot.jpg">
 	<link rel="canonical" href="p-shot.php" />
-	<link rel="author" type="text/plain" href="https://www.sexualenhancementbayarea.com/humans.txt" />
+	<link rel="author" type="text/plain" href="https://www.sexualwellnesssf.com/humans.txt" />
 	<link rel="publisher" href="https://www.demandboost.com"/>
-	
+
 	<!-- Retina Images -->
 	<script>(function(w){var dpr=((w.devicePixelRatio===undefined)?1:w.devicePixelRatio);if(!!w.navigator.standalone){var r=new XMLHttpRequest();r.open('GET','php-helpers/retinaimages.php?devicePixelRatio='+dpr,false);r.send()}else{document.cookie='devicePixelRatio='+dpr+'; path=/'}})(window)</script>
-	<noscript><style id="devicePixelRatio" media="only screen and (-moz-min-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2)">html{background-image:url("https://www.sexualenhancementbayarea.com/php-helpers/_retinaimages.php?devicePixelRatio=2")}</style></noscript>
-	
+	<noscript><style id="devicePixelRatio" media="only screen and (-moz-min-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2)">html{background-image:url("https://www.sexualwellnesssf.com/php-helpers/_retinaimages.php?devicePixelRatio=2")}</style></noscript>
+
 	<!-- Favicons -->
 	<link rel="apple-touch-icon" sizes="57x57" href="../images/favicons/apple-icon-57x57.png">
 	<link rel="apple-touch-icon" sizes="60x60" href="../images/favicons/apple-icon-60x60.png">
@@ -61,7 +61,7 @@
 	<!-- Libraries -->
 	<script type="text/javascript" src="../js/modernizr.min.js"></script>
 	<script type="text/javascript" src="../js/jquery.js"></script>
-	
+
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -76,7 +76,7 @@
 	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W6DGJT2"
 	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<!-- End Google Tag Manager (noscript) -->
-	
+
 	<!-- Page Wrapper -->
 	<div id="page_wrapper">
 		<!-- HEADER -->
@@ -86,7 +86,7 @@
 					<div class="header-links-container">
 						<ul class="social-icons sc--clean topnav navRight">
 							<li><a href="http://x1.fyi/DKRqM" target="_blank" class="icon-facebook" title="Facebook"></a></li>
-							<li><a href="http://x1.fyi/cap2S" target="_blank" class="icon-twitter" title="Twitter"></a></li>	
+							<li><a href="http://x1.fyi/cap2S" target="_blank" class="icon-twitter" title="Twitter"></a></li>
 							<li><a href="http://x1.fyi/uiXPY" target="_blank" class="icon-gplus" title="Google Plus"></a></li>
 							<li><a href="http://x1.fyi/mo5Zt" target="_blank" class="icon-youtube" title="YouTube"></a></li>
 							<li><a href="http://x1.fyi/tsikT" target="_blank" class="icon-yelp" title="Yelp"></a></li>
@@ -151,15 +151,15 @@
 								<li><a href="../testimonials.php">Testimonials</a></li>
 							</ul>
 						</li>
-						
+
 						<li class="menu-item-has-children"><a href="../about.php">About</a>
 							 <ul class="sub-menu clearfix">
 								<li><a href="../about.php">About Us</a></li>
 								<li><a href="../blog/blog.php">Treatment Blog</a></li>
-								
+
 							</ul>
 						</li>
-						
+
 						<li class="menu-item-has-children menu-item-mega-parent active"><a href="../procedures.php">Procedures</a>
 							<ul class="hg_mega_container container clearfix">
 								<li class="menu-item-has-children col-sm-3"><a href="../procedures-women.php" class="zn_mega_title">Women (Surgical)</a>
@@ -208,9 +208,6 @@
 								<li><a href="../faqs-female.php">FAQs for Women</a></li>
 								<li><a href="../faqs-male.php">FAQs for Men</a></li>
 							</ul>
-						</li>
-						<li class="">
-							<a href="../seminar/index.html">Seminars</a>
 						</li>
 						<li class="">
 							<a href="../contact.php">Contact</a>
@@ -268,7 +265,7 @@
 		</div>
 
 		<!-- Page Content -->
-        <section class="hg_section ptop-50 pbottom-50">          
+        <section class="hg_section ptop-50 pbottom-50">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
@@ -280,11 +277,11 @@
 						<div class="procedure-text">
 							<h4><strong>What is The Priapus Shot (P Shot)?</strong></h4>
 							<p>The Priapus Shot (P-Shot) can help men overcome erectile dysfunction with an injection to the penis. The Priapus Shot can also improve sexual performance. Erectile dysfunction may occur for several reasons, including an enlarged prostate, prostate cancer, surgery, certain medications, or even from diabetes. Erectile dysfunction may also be caused by age or a severe injury. The Priapus Shot can help a man regain confidence during intimate encounters and increase sexual sensations for increased pleasure.</p>
-							
+
 							<h4><strong>How Does It Work?</strong></h4>
 							<p>The Priapus Shot involves the use of platelet-rich plasma (PRP), which is harvested from the patient's own body. Growth factors in PRP are the main component in this injection, as they help rejuvenate the damaged blood vessels in the penis that restrict blood circulation. Since PRP is derived from the patient, the body does not reject this treatment.</p>
 							<p>After blood is pulled from the patient's body, it is placed in a centrifuge and the blood is spun down to separate the stem cells and growth factors. The result is a concentrated healing form of platelet-rich plasma, which is then injected into the penis.</p>
-							
+
 							<p>Men elect this treatment for several reasons, including:</p>
 							<ul class="fancy-list ml-0">
 								<li>Erectile Dysfunction</li>
@@ -300,7 +297,7 @@
 							<p><a href="../consultation.php" style="text-decoration: underline !important;">Set up a free consultation</a> with Dr. Liu today.</p>
 						</div>
 						<div class="clear"></div>
-					</div>	
+					</div>
 				</div>
 			</div>
 		</section>
@@ -355,7 +352,7 @@
 								<h4 data-role="title" class="simple-title">FOLLOW US</h4>
 								<ul class="social-icons sc--clean clearfix">
 									<li><a href="http://x1.fyi/DKRqM" target="_blank" rel="nofollow" class="icon-facebook" title="Facebook"></a></li>
-									<li><a href="http://x1.fyi/cap2S" target="_blank" rel="nofollow" class="icon-twitter" title="Twitter"></a></li>	
+									<li><a href="http://x1.fyi/cap2S" target="_blank" rel="nofollow" class="icon-twitter" title="Twitter"></a></li>
 									<li><a href="http://x1.fyi/uiXPY" target="_blank" rel="nofollow" class="icon-gplus" title="Google Plus"></a></li>
 									<li><a href="http://x1.fyi/mo5Zt" target="_blank" rel="nofollow" class="icon-youtube" title="YouTube"></a></li>
 									<li><a href="http://x1.fyi/tsikT" target="_blank" rel="nofollow" class="icon-yelp" title="Yelp"></a></li>
@@ -423,15 +420,15 @@
 					</div>
 				</div>
 			</div>
-			<script type="application/ld+json"> 
+			<script type="application/ld+json">
 				{
 					"@context": "https://schema.org",
 					"@type": "MedicalClinic",
 					"name": "Center for Sexual Enhancement for Men and Women",
-					"logo": "https://www.sexualenhancementbayarea.com/images/logo/logo.png",
-					"image": "https://www.sexualenhancementbayarea.com/images/logo/logo.png",
-					"@id": "sexualenhancementbayarea.com",
-					"url": "https://www.sexualenhancementbayarea.com",
+					"logo": "https://www.sexualwellnesssf.com/images/logo/logo.png",
+					"image": "https://www.sexualwellnesssf.com/images/logo/logo.png",
+					"@id": "sexualwellnesssf.com",
+					"url": "https://www.sexualwellnesssf.com",
 					"description": "At Center for Sexual Enhancement for Men and Women, our goal is the help make the world more beautiful by helping to reshape and enhance the most intimate parts of our patients' lives",
 					"telephone": "(650) 397-7070",
 					"hasMap": "https://www.google.com/maps/place/1720+El+Camino+Real+%23200,+Burlingame,+CA+94010/@37.5938827,-122.3826303,17z/data=!3m1!4b1!4m5!3m4!1s0x808f77b53b097a7b:0x4af2f6e5cda342f5!8m2!3d37.5938827!4d-122.3804416",
@@ -502,7 +499,7 @@
 		</footer>
 	</div>
 
-	
+
 	<!-- ToTop trigger -->
 	<a href="p-shot.php#" id="totop">TOP</a>
 	<!--/ ToTop trigger -->

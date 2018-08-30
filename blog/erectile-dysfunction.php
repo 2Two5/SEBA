@@ -18,15 +18,15 @@
 	<meta property="og:locale" content="en_US"/>
 	<meta property="og:type" content="website"/>
 	<link property="og:url" href="erectile-dysfunction.php"/>
-	<link itemprop="image" href="og:image" content="https://www.sexualenhancementbayarea.com/images/blog/ed-treatment.png">
+	<link itemprop="image" href="og:image" content="https://www.sexualwellnesssf.com/images/blog/ed-treatment.png">
 	<link rel="canonical" href="erectile-dysfunction.php" />
-	<link rel="author" type="text/plain" href="https://www.sexualenhancementbayarea.com/humans.txt" />
+	<link rel="author" type="text/plain" href="https://www.sexualwellnesssf.com/humans.txt" />
 	<link rel="publisher" href="https://www.demandboost.com"/>
-	
+
 	<!-- Retina Images -->
 	<script>(function(w){var dpr=((w.devicePixelRatio===undefined)?1:w.devicePixelRatio);if(!!w.navigator.standalone){var r=new XMLHttpRequest();r.open('GET','php-helpers/retinaimages.php?devicePixelRatio='+dpr,false);r.send()}else{document.cookie='devicePixelRatio='+dpr+'; path=/'}})(window)</script>
-	<noscript><style id="devicePixelRatio" media="only screen and (-moz-min-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2)">html{background-image:url("https://www.sexualenhancementbayarea.com/php-helpers/_retinaimages.php?devicePixelRatio=2")}</style></noscript>
-	
+	<noscript><style id="devicePixelRatio" media="only screen and (-moz-min-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2)">html{background-image:url("https://www.sexualwellnesssf.com/php-helpers/_retinaimages.php?devicePixelRatio=2")}</style></noscript>
+
 	<!-- Favicons -->
 	<link rel="apple-touch-icon" sizes="57x57" href="../images/favicons/apple-icon-57x57.png">
 	<link rel="apple-touch-icon" sizes="60x60" href="../images/favicons/apple-icon-60x60.png">
@@ -62,7 +62,7 @@
 	<!-- Libraries -->
 	<script type="text/javascript" src="../js/modernizr.min.js"></script>
 	<script type="text/javascript" src="../js/jquery.js"></script>
-	
+
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -77,7 +77,7 @@
 	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W6DGJT2"
 	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<!-- End Google Tag Manager (noscript) -->
-	
+
 	<!-- Page Wrapper -->
 	<div id="page_wrapper">
 		<!-- HEADER -->
@@ -87,7 +87,7 @@
 					<div class="header-links-container">
 						<ul class="social-icons sc--clean topnav navRight">
 							<li><a href="http://x1.fyi/DKRqM" target="_blank" class="icon-facebook" title="Facebook"></a></li>
-							<li><a href="http://x1.fyi/cap2S" target="_blank" class="icon-twitter" title="Twitter"></a></li>	
+							<li><a href="http://x1.fyi/cap2S" target="_blank" class="icon-twitter" title="Twitter"></a></li>
 							<li><a href="http://x1.fyi/uiXPY" target="_blank" class="icon-gplus" title="Google Plus"></a></li>
 							<li><a href="http://x1.fyi/mo5Zt" target="_blank" class="icon-youtube" title="YouTube"></a></li>
 							<li><a href="http://x1.fyi/tsikT" target="_blank" class="icon-yelp" title="Yelp"></a></li>
@@ -152,15 +152,15 @@
 								<li><a href="../testimonials.php">Testimonials</a></li>
 							</ul>
 						</li>
-						
+
 						<li class="menu-item-has-children"><a href="../about.php">About</a>
 							 <ul class="sub-menu clearfix">
 								<li><a href="../about.php">About Us</a></li>
 								<li><a href="blog.php">Treatment Blog</a></li>
-								
+
 							</ul>
 						</li>
-						
+
 						<li class="menu-item-has-children menu-item-mega-parent active"><a href="../procedures.php">Procedures</a>
 							<ul class="hg_mega_container container clearfix">
 								<li class="menu-item-has-children col-sm-3"><a href="../procedures-women.php" class="zn_mega_title">Women (Surgical)</a>
@@ -209,9 +209,6 @@
 								<li><a href="../faqs-female.php">FAQs for Women</a></li>
 								<li><a href="../faqs-male.php">FAQs for Men</a></li>
 							</ul>
-						</li>
-						<li class="">
-							<a href="../seminar/index.html">Seminars</a>
 						</li>
 						<li class="">
 							<a href="../contact.php">Contact</a>
@@ -269,7 +266,7 @@
 		</div>
 
 		<!-- Page Content -->
-        <section class="hg_section ptop-50 pbottom-50">          
+        <section class="hg_section ptop-50 pbottom-50">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
@@ -287,11 +284,11 @@
 							<li style="list-style-type: square;">Practicing healthy habits can help reduce the likeness of experiencing symptoms of ED as you age. A study published in the American Journal of Physiology examined the effects of diet and exercise in correlation with ED and heart disease.  Researchers found that traditional, nonsurgical treatment was successful in reversing the symptoms of ED in subjects that were placed on a no-exercise, high fat and sugar diet. However, consistent exercise combined with a balanced diet—with vitamins, minerals, and proteins—can prevent or reduce symptoms of ED (<a href="https://www.physiology.org/" target="_blank" rel="nofollow">www.physiology.org</a>, 2018). </li><br>
 							<li style="list-style-type: square;">Exercise promotes proper blood circulation and heart health. As you work out, your heart contracts at a higher rate, increasing blood flow and improving circulation. Although, this doesn’t mean you need to buy a gym membership and work out for two hours a day. Actually, simple aerobic or cardio exercises—running, walking, cycling, swimming, etc.—performed consistently is enough to improve blood circulation. And we all know what increased blood circulation can do for us. *wink wink*</li><br>
 							<li style="list-style-type: square;">There are many other factors that intensify early symptoms of ED, including diabetes, low levels of testosterone, and excessive smoking and drinking, which all contribute to experiencing ED at a younger age. One surefire way to keep things “moving in the right direction” is to secure preventative measures for these areas.</li><br>
-							
+
 							</ul>
-							
+
 							<p>For more information about factors leading to erectile dysfunction, visit our <a href="../faqs-male.php" target="_blank" rel="nofollow">FAQ page</a> to view some of the common questions we receive about prevention and treatment. To identify the root of your erectile dysfunction symptoms, schedule a free consultation with Dr. Lui by calling (650) 397-7070. </p>
-							
+
 							<p>At The Center for Sexual Enhancement in Burlingame, we have a variety of nonsurgical and surgical procedures to treat symptoms of erectile dysfunction. Click any of the services below to learn more about what each treatment consists of.</p>
 							<ul>
 							<li style="text-decoration: underline !important;"><a href="../procedures-men/cialis-levitra-viagra.php" target="_blank" rel="nofollow"><strong>•	Cialis, Levitra, & Viagra</strong></a></li>
@@ -300,12 +297,12 @@
 							<li style="text-decoration: underline !important;"><a href="../procedures-men/p-shot.php" target="_blank" rel="nofollow"><strong>•	The Priapus Shot (P-Shot)</strong></a></li>
 							<li style="text-decoration: underline !important;"><a href="../procedures-men/inflatable-penile-implant.php" target="_blank" rel="nofollow"><strong>•	Inflatable Penile Implant</strong></a></li>
 							</ul>
-							<p>Our goal is to help make the world more beautiful by helping reshape and enhance the most intimate parts of our patients' lives. If you would like to schedule a free consultation, visit <a href="../index.html" target="_blank" rel="nofollow">sexualenhancementbayarea.com</a> or call (650) 397-7070. </p>
-							
+							<p>Our goal is to help make the world more beautiful by helping reshape and enhance the most intimate parts of our patients' lives. If you would like to schedule a free consultation, visit <a href="../index.html" target="_blank" rel="nofollow">sexualwellnesssf.com</a> or call (650) 397-7070. </p>
+
 							<p>You’re new and improved sex life is an appointment away. Call now! (650) 397-7070.</p>
 						</div>
 						<div class="clear"></div>
-					</div>	
+					</div>
 				</div>
 			</div>
 		</section>
@@ -360,7 +357,7 @@
 								<h4 data-role="title" class="simple-title">FOLLOW US</h4>
 								<ul class="social-icons sc--clean clearfix">
 									<li><a href="http://x1.fyi/DKRqM" target="_blank" rel="nofollow" class="icon-facebook" title="Facebook"></a></li>
-									<li><a href="http://x1.fyi/cap2S" target="_blank" rel="nofollow" class="icon-twitter" title="Twitter"></a></li>	
+									<li><a href="http://x1.fyi/cap2S" target="_blank" rel="nofollow" class="icon-twitter" title="Twitter"></a></li>
 									<li><a href="http://x1.fyi/uiXPY" target="_blank" rel="nofollow" class="icon-gplus" title="Google Plus"></a></li>
 									<li><a href="http://x1.fyi/mo5Zt" target="_blank" rel="nofollow" class="icon-youtube" title="YouTube"></a></li>
 									<li><a href="http://x1.fyi/tsikT" target="_blank" rel="nofollow" class="icon-yelp" title="Yelp"></a></li>
@@ -428,15 +425,15 @@
 					</div>
 				</div>
 			</div>
-			<script type="application/ld+json"> 
+			<script type="application/ld+json">
 				{
 					"@context": "https://schema.org",
 					"@type": "MedicalClinic",
 					"name": "Center for Sexual Enhancement for Men and Women",
-					"logo": "https://www.sexualenhancementbayarea.com/images/logo/logo.png",
-					"image": "https://www.sexualenhancementbayarea.com/images/logo/logo.png",
-					"@id": "sexualenhancementbayarea.com",
-					"url": "https://www.sexualenhancementbayarea.com",
+					"logo": "https://www.sexualwellnesssf.com/images/logo/logo.png",
+					"image": "https://www.sexualwellnesssf.com/images/logo/logo.png",
+					"@id": "sexualwellnesssf.com",
+					"url": "https://www.sexualwellnesssf.com",
 					"description": "At Center for Sexual Enhancement for Men and Women, our goal is the help make the world more beautiful by helping to reshape and enhance the most intimate parts of our patients' lives",
 					"telephone": "(650) 397-7070",
 					"hasMap": "https://www.google.com/maps/place/1720+El+Camino+Real+%23200,+Burlingame,+CA+94010/@37.5938827,-122.3826303,17z/data=!3m1!4b1!4m5!3m4!1s0x808f77b53b097a7b:0x4af2f6e5cda342f5!8m2!3d37.5938827!4d-122.3804416",
@@ -507,7 +504,7 @@
 		</footer>
 	</div>
 
-	
+
 	<!-- ToTop trigger -->
 	<a href="erectile-dysfunction.php#" id="totop">TOP</a>
 	<!--/ ToTop trigger -->
